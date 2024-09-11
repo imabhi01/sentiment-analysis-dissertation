@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/00350545-39d4-41b9-94f2-e68f2100f4fe/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/drug-reviews-sentiment-classification",
+    "appService.deploySubpath": "."
+}
